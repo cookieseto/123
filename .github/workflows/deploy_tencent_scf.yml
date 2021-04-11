@@ -30,6 +30,8 @@ jobs:
       PUSH_PLUS_TOKEN: ${{ secrets.PUSH_PLUS_TOKEN}}
       PUSH_PLUS_USER: ${{ secrets.PUSH_PLUS_USER}}
       TG_PROXY_HOST: ${{ secrets.TG_PROXY_HOST}}
+      
+      
       TG_PROXY_PORT: ${{ secrets.TG_PROXY_PORT}}
       TG_PROXY_AUTH: ${{ secrets.TG_PROXY_AUTH}}
       TG_API_HOST: ${{ secrets.TG_API_HOST}}
